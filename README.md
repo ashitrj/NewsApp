@@ -93,7 +93,7 @@ pinkbee.dev@gmail.com
 
 If you like my app, you can download it on Google Play.
 
-https://play.google.com/store/apps/details?id=com.soojeongshin.newsfeed.free
+
 
 
 ![pod_1](https://user-images.githubusercontent.com/33213229/55874873-9bfdc180-5bce-11e9-8376-a677f9f7526a.png)
